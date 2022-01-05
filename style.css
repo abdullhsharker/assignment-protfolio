@@ -1,0 +1,103 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+margin: 0;
+padding: 0;
+color: rgb(54, 49, 49);
+   
+}
+.parent{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 100px;
+    
+    
+   
+}
+.peraagraph-1{
+    font-size: 35px;
+    width: 50%;  
+    
+}
+h1 .heding1{
+    font-family: Lobster;
+}
+
+.peraagraph-1 h1{
+    
+    border-left: 5px solid tomato;
+    padding-left: 20px;
+}
+h1 .orange-color{
+    color: orange;
+}
+.my-photo-1 img{
+width: 600px;
+margin-left: 100px;
+}
+.but1{
+    padding: 20px 40px;
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.middel h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.list-1{
+    background-color: rgb(228, 243, 248);
+    width: 300px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px gray;
+}
+.list-1 img{
+    width: 70%;
+}
+.list-2{
+    background-color: rgb(255, 205, 238);
+    width: 300px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px gray;
+}
+.list-2 img{
+    width: 70%;
+}
+.list-3{
+    background-color: rgb(245, 248, 235);
+    width: 300px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px gray;
+}
+.list-3 img{
+    width: 70%;
+}
+.about-mission{
+    margin-top: 180px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.parent .third-pard{
+    font-size: 35px;
+    width: 50%;
+    padding-left: 100px;  }
+    
+.add-background{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+
+   
+ 
+    
+}
